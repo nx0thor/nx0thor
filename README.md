@@ -27,8 +27,8 @@ Languages and Tools
 <div>
 
 ### Languages:
-| Php | Js | Dart | Java | Python
-|----------|----------|----------|-----|-----|
+| Php | Js | Dart | Java | Python |
+|-----|----|------|------|--------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Python"  alt="Python" width="60" height="60"/> |  
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>|
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="65" width="65" />
