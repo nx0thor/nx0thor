@@ -26,11 +26,6 @@ Languages and Tools
 <hr>
 <div>
 
-<hr>
-Languages and Tools 
-<hr>
-<div>
-
 ### Languages:
 | Php | Python | Js | Dart | Java |
 |----------|----------|----------|-----|-----|
