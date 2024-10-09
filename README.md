@@ -1,5 +1,5 @@
 <div align="center">
- <iframe src="https://giphy.com/embed/RgZFvGuI4OxLjuSvRF" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-pixelart-axeloil-RgZFvGuI4OxLjuSvRF"></a></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpwZGw1dGluY2QzcmZ1cjdlZmFsZXBndzN4bGdpajJ1ZjBpNWJhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" width="200" height="200" />
 </div>
 <h1 align="center">Olá 👋, Sou a Pedro Santos!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>
@@ -67,3 +67,5 @@
 		<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dreamweaver.svg" alt="Dreamweaver" width="40" height="40"/>
 	</a>
 </p>
+
+
