@@ -38,13 +38,13 @@ Languages and Tools
 
 ### Best frameworks and main libraries:
 
-| Next js | React | Angular | FLutter | Laravel | Bootstrap | Tailwind | Axios
+| Next js | React | Flask | FLutter | Laravel | Bootstrap | Tailwind | Axios
 |----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="Jquery" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="65" height="65"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" height="70"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="Jquery" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Angular" alt="Angular" width="65" height="65"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" height="70"/>|
 
 ### Database:
 
-| MySql | MongoDb | PostGres SQL |
+| MySql | MongoDb | PostGreSQL |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySql" alt="mySql" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> |
 
