@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpwZGw1dGluY2QzcmZ1cjdlZmFsZXBndzN4bGdpajJ1ZjBpNWJhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" width="450" height="300" />
 </div>
-<h1 align="center">Olá 👋, Sou a Pedro Santos!</h1>
+<h1 align="center">Olá 👋, Sou Pedro Santos!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>
 
 
